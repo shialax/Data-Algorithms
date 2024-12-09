@@ -1,15 +1,15 @@
 {
-  "name": "dsa-bsts",
+  "name": "dsa-graphs",
   "version": "1.0.0",
   "description": "",
-  "main": "binary-search-tree.test.js",
+  "main": "graph.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "jest": "^24.1.0"
   }
 }
